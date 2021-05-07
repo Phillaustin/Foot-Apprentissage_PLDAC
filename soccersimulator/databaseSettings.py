@@ -1,0 +1,5 @@
+CSVFEATURES = '../soccersimulator/etats.csv'
+CSVLABELS = '../soccersimulator/ordres.csv'
+CSVFEATURESTOADD = '../etatsAdded.csv'
+CSVLABELSTOADD = '../ordresAdded.csv'
+CSVPLAYABLEINFO = '../soccersimulator/lastEquipePlayed.csv'
