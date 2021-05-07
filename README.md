@@ -1,7 +1,7 @@
 # Foot-Apprentissage_PLDAC
 ******** INSTALLATION ******************************************************
 
-Vous devez être situé au niveau du répertoire Foot&Apprentissage_PLDAC et exécuter la commande suivante :
+Vous devez être situé au niveau du répertoire Foot-Apprentissage_PLDAC et exécuter la commande suivante :
 
 pip install -e "path" --user
  
@@ -10,7 +10,7 @@ Vous devrez également installer plusieurs bibliothèques (sklearn, numpy, pygle
 
 ******** LANCEMENT DU JEU ***********************************************
 
-Depuis le répertoire Foot&Apprentissage_PLDAC/Examples :
+Depuis le répertoire Foot-Apprentissage_PLDAC/Examples :
 python simple_example.py
 
 ******** UTILISATION *******************************************************
